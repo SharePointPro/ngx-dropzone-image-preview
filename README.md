@@ -13,3 +13,5 @@ This preview object will display the image if an image is uploaded, otherwise it
   </custom-dropzone-preview>
  </ngx-dropzone>
  ```
+
+![](https://raw.githubusercontent.com/SharePointPro/ngx-dropzone-image-preview/main/screen%20shot/dropzone-image-preview.PNG)
