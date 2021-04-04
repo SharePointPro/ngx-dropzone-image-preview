@@ -4,7 +4,7 @@ A simple extension to Peter Freemans angular dropzone wrapper - found here https
 This preview object will display the image if an image is uploaded, otherwise it will show icons based on the type of file uploaded.
 
 # Usage
-**note** git only provides a snippit from an angular project and is not a buildable solution.  
+**note** this git only contains a snippit from an angular project and is not a buildable solution.  
 
 ```
 <ngx-dropzone (change)="onSelect($event)">
