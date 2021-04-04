@@ -1,11 +1,6 @@
 :host {
     padding: 10px !important;
 }
-:host::ng-deep() ngx-dropzone-label {
-    position: absolute;
-    overflow-wrap: break-word;
-    
-}
 .image-preview {
     max-height: 100%;
     border-radius: 5px;
