@@ -1,5 +1,5 @@
 # ngx-dropzone-image-preview
-A simple extension to Peter Freemans angular dropzone wrapper found here https://github.com/peterfreeman/ngx-dropzone
+A simple extension to Peter Freemans angular dropzone wrapper - found here https://github.com/peterfreeman/ngx-dropzone
 
 This preview object will display the image if an image is uploaded, otherwise it will show icons based on the type of file uploaded.
 
