@@ -1,0 +1,4 @@
+<img [src]="imageSrc" class="image-preview" />
+<div class="file-label">{{file.name}}</div>
+<ngx-dropzone-remove-badge *ngIf="removable" (click)="_remove($event)">
+</ngx-dropzone-remove-badge>

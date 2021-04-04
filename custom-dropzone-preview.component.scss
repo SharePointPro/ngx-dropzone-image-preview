@@ -1,0 +1,19 @@
+:host {
+    padding: 10px !important;
+}
+:host::ng-deep() ngx-dropzone-label {
+    position: absolute;
+    overflow-wrap: break-word;
+    
+}
+.image-preview {
+    max-height: 100%;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+.file-label {
+    position: absolute;
+    bottom: -10px;
+    color: black;
+    font-size: 12px;
+}
